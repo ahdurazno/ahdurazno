@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">🖥️ Small Programmer<br>🌃 Computer Science<br>📄 Searching for work!<br>⚡ Specialized in C</p>
+<p data-importer="text" align="left">🖥️ Small Programmer<br>🌃 Computer Science<br>📄 Searching for work!</p>
 
 ###
 
